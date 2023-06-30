@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 void main() {
   runApp(const MyApp());
@@ -102,6 +101,7 @@ class HomeState extends State<Home> {
                   if(value!.isEmpty){
                     return "Insira seu peso";
                   }
+                  return null;
                 },
               ),
               TextFormField(
@@ -116,6 +116,7 @@ class HomeState extends State<Home> {
                   if(value!.isEmpty){
                     return 'Insira sua Altura';
                   }
+                  return null;
                 },
               ),
               Padding(

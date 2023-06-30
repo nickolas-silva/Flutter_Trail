@@ -1,0 +1,4 @@
+#Fri Jun 30 14:36:56 BRT 2023
+base.0=/home/nick_ol/Projetos/flutter/Flutter_Trail/flutter_apps/cont/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
